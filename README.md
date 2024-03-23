@@ -1,5 +1,5 @@
 700747373--Assignment-8-Keerthy Pabbathineni
-Here is the video link: 
+Here is the video link: https://drive.google.com/file/d/1CcG5dIJQ_mfVEquiY-wWZi00TGwNAZnf/view?usp=sharing
 
 In class programming:
 Add one more hidden layer to autoencoder
